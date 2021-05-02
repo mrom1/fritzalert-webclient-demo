@@ -26,7 +26,8 @@
                             label: 'Kilobytes',
                             borderColor: ChartColors.blue,
                             backgroundColor: ChartColors.blue,
-                            data: this.currentDownloadstreamUsage
+                            //data: this.currentDownloadstreamUsage
+                            data: [5, 7, 6, 8, 12, 9, 5, 3, 6, 10, 8]
                         }
                     ],
                 }
